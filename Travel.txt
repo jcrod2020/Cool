@@ -4,4 +4,6 @@ packing list
 Additional food list
 ------
 Bread
-coffe 
+coffe
+cookies
+cheese cake
