@@ -5,3 +5,5 @@ Additional food list
 ------
 Bread
 coffe 
+cheese cake
+cookies
